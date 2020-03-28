@@ -1,3 +1,4 @@
+import numpy as np
 import pandas as pd
 from datetime import date, timedelta
 from configparser import ConfigParser
@@ -29,7 +30,7 @@ def main():
         d = df.iloc[-1]["date"]
         t = df.iloc[-1]["time"]
 
-        if type(t) == float or type(t) == pd.np.float64:
+        if type(t) == float or type(t) == np.float64:
             t = "00:00"
 
         last_updated[canton] = {"Date": d, "Time": t}
