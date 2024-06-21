@@ -21,7 +21,7 @@ Legacy data sources and credits:
 - Data for [JU](https://www.jura.ch/fr/Autorites/Coronavirus/Accueil/Coronavirus-Informations-officielles-a-la-population-jurassienne.html)
 - Data for [GE](https://www.ge.ch/covid-19-coronavirus-geneve/situation-epidemiologique-geneve) Merci [@ThomasGriessen](https://twitter.com/ThomasGriessen)
 - Data for [LU](https://www.luzernerzeitung.ch/zentralschweiz/luzern/so-will-die-luzerner-regierung-die-massnahmen-des-bundes-umsetzen-lukb-stellt-50-millionen-franken-bereit-ld.1204954), Danke [@neph_b](https://twitter.com/neph_b) \*Data ard from the video.
-- Data for [VD](https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/), Merci [@f_giroud](https://twitter.com/f_giroud)
+- Data for [VD](https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/), Merci [@f_giroud](https://twitter.com/f_giroud)
 - Data for [TG](https://www.tg.ch/news/fachdossier-coronavirus.html/10552), Danke [@KeveHilfi](https://twitter.com/KeveHilfi)
 - Data for [ZH](https://github.com/openZH/covid_19), Danke, [@zdavatz](https://twitter.com/zdavatz)
 - Data for [SH](https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html), Danke [@BachliMeyer](https://twitter.com/BachliMeyer)
